@@ -46,6 +46,7 @@ console.log(nonsens);
 // const playerFat = 'little bit';
 
 // const player = ["nico", 1212, false, "little bit"]
+//이렇게 데이터를 표현하면 비효율적이다.
 
 // objects part
 const player = {
