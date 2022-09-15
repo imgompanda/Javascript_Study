@@ -101,3 +101,5 @@ const player2 = {
 console.log(player2.name);
 player2.sayHello2('lynn');
 player2.sayHello2('HyungWoo');
+
+// 조건문
