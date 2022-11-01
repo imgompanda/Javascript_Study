@@ -19,5 +19,4 @@ else if (age < 18) {
   console.log("wow you are wise");
 } else if (age > 80) {
   console.log("You can do whatever you want");
-}
-
+} 
